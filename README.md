@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Seray
 - 👀 I’m interested in data sciene
-- 🌱 I’m currently learning phyton and R languages 
+- 🌱 I’m currently learning python and R languages 
 - 💞️ I’m looking to collaborate on a learning buddy
 - 📫 How to reach me seraylky@gmail.com
 
